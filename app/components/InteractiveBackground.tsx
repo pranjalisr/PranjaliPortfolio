@@ -21,7 +21,7 @@ const InteractiveBackground: React.FC = () => {
 
     let animationFrameId: number
     let particles: Particle[] = []
-    let mouse = { x: 0, y: 0 }
+    const mouse = { x: 0, y: 0 }
 
     const resizeCanvas = () => {
       canvas.width = window.innerWidth
