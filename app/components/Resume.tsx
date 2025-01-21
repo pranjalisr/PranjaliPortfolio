@@ -18,7 +18,7 @@ const Resume = () => {
             Download my resume to learn more about my skills, experience, and qualifications in DevOps and Full Stack Development.
           </p>
           <motion.a
-            href="/Pranjali_Srivastava_Resume.pdf"
+            href="/PranjaliPortfolioDEvResume.pdf"
             download
             className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition-colors duration-200"
             whileHover={{ scale: 1.05 }}
@@ -32,6 +32,7 @@ const Resume = () => {
     </section>
   )
 }
+
 
 export default Resume
 

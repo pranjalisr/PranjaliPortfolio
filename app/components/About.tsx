@@ -1,7 +1,9 @@
 'use client'
 
-import Image from 'next/image'
+// import Image from 'next/image'
 import { motion } from 'framer-motion'
+import Image from 'next/image';
+
 
 const About = () => {
   return (
@@ -16,11 +18,12 @@ const About = () => {
             className="w-full md:w-1/3"
           >
             <Image
-              src="/dp.jpeg"
-              alt="Jane Doe"
+              src="/image.jpg"
+              alt="Pranjali"
               width={400}
               height={400}
-              className="rounded-full mx-auto"
+              className="rounded-full mx-auto shadow-lg"
+              priority
             />
           </motion.div>
           <motion.div
