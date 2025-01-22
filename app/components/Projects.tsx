@@ -5,7 +5,7 @@ import { Github } from 'lucide-react'
 const projects = [
   {
     title: 'Automated Deployment Pipeline with GitOps',
-    description: 'Build a GitOps-based CI/CD pipeline using ArgoCD or Flux. Integrated it with GitHub to automatically deploy changes to Kubernetes clusters.',
+    description: 'Built a GitOps-based CI/CD pipeline using ArgoCD. Integrated it with GitHub to automatically deploy changes to Kubernetes clusters.',
     tech: ['CI/CD', 'Docker', 'K8'],
     github: 'https://github.com/pranjalisr/Automated-Deployment-Pipeline-with-GitOps',
   },
@@ -17,19 +17,19 @@ const projects = [
   },
   {
     title: 'Kubernetes Cluster with Advanced Monitoring',
-    description: 'Deployed a Kubernetes cluster using kubeadm or a managed service like EKS or GKE.Implemented tools like Prometheus, Grafanafor metrics, logging, and tracing.',
+    description: 'Deployed a Kubernetes cluster using kubeadm or a managed service like EKS or GKE can also be used. Implemented tools like Prometheus, Grafanafor metrics, logging, and tracing.',
     tech: ['K8', 'Terraform', 'Grafana'],
     github: 'https://github.com/pranjalisr/k8s-cluster-advanced-monitoring',
   },
   {
     title: 'Serverless application with CI/CD',
-    description: 'Build a serverless web application using AWS Lambda. Set up a CI/CD pipeline with GitHub Actions or Bitbucket Pipelines to deploy changes automatically.',
+    description: 'Built a serverless web application using AWS Lambda. Set up a CI/CD pipeline with GitHub Actions or Bitbucket Pipelines to deploy changes automatically.',
     tech: ['CI/CD', 'Typescript', 'JAVASCRIPT'],
     github: 'https://github.com/pranjalisr/Serverless-CICD-Appn',
   },
   {
     title: 'DevSecOps Pipeline',
-    description: 'Built a DevOps pipeline with integrated security checks using tools like Snyk, Trivy, and OWASP ZAP. Automate vulnerability scanning and security testing.',
+    description: 'Built a DevOps pipeline with integrated security checks using tools like Snyk, Trivy, and OWASP ZAP. Automated vulnerability scanning and security testing.',
     tech: ['Docker', 'Expressjs', 'CI/CD'],
     github: 'https://github.com/pranjalisr/dev-sec-ops-pipeline',
   },
