@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Github, Linkedin, Mail, Twitter } from 'lucide-react'
+import { Github, Linkedin, Mail } from 'lucide-react'
 
 const Hero = () => {
   return (
@@ -21,7 +21,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-2xl md:text-3xl text-blue-400 mb-8"
         >
-          DevOps & Full Stack Developer
+           Full Stack Developer
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: -20 }}
@@ -29,7 +29,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-xl mb-12 max-w-2xl mx-auto"
         >
-          Crafting seamless digital experiences with expertise in Full Stack Development and DevOps innovation.
+          Crafting seamless digital experiences with expertise in Full Stack Development.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
