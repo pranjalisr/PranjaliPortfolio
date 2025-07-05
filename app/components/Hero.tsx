@@ -40,7 +40,7 @@ const Hero = () => {
           {[
             { Icon: Github, href: 'https://github.com/pranjalisr' },
             { Icon: Linkedin, href: 'https://www.linkedin.com/in/pranjali-sr25/' },
-            { Icon: Twitter, href: 'https://x.com/certlurker?t=AkTBwxR8H75UBQu2sJNzSQ&s=09' },
+           // { Icon: Twitter, href: 'https://x.com/pranjalliiii' },
             { Icon: Mail, href: 'mailto:pranjalisr25@gmail.com' },
           ].map(({ Icon, href }, index) => (
             <motion.a

@@ -18,7 +18,7 @@ const About = () => {
             className="w-full md:w-1/3"
           >
             <Image
-              src="/image.jpg"
+              src="/image.jpeg"
               alt="Pranjali"
               width={400}
               height={400}
@@ -33,13 +33,12 @@ const About = () => {
             className="w-full md:w-2/3"
           >
             <p className="text-lg mb-4">
-              Welcome to my portfolio website, where technology meets creativity! As a passionate Full Stack Developer and DevOps Engineer, I specialize in building seamless, high-performance applications while ensuring robust and efficient deployment pipelines. From designing engaging user interfaces to architecting scalable backends and managing infrastructure, my expertise bridges the gap between development and operations to deliver end-to-end solutions that thrive in real-world environments.
+            Welcome to my portfolio! I’m a Full Stack Developer passionate about building high-performance apps and seamless deployment pipelines. From crafting intuitive UIs with React to deploying scalable backends with Node.js, Docker, and AWS, I bridge the gap between development and operations.            </p>
+            <p className="text-lg mb-4">
+            I enjoy turning complex problems into simple, elegant solutions. My work thrives at the intersection of usability, performance, and automation.
             </p>
             <p className="text-lg mb-4">
-              With a strong command over modern tech stacks like React, Node.js and Docker, combined with proficiency in cloud platforms such as AWS and Kubernetes, I bring ideas to life with precision and efficiency. My approach centers around clean code, automation, and collaboration, leveraging CI/CD practices to accelerate development cycles without compromising quality. Whether it&apos;s creating a feature-rich web application or ensuring smooth deployments, my work embodies reliability and innovation at its core.
-            </p>
-            <p className="text-lg">
-             Every project on this portfolio reflects my dedication to solving complex challenges through smart and sustainable solutions. I thrive on crafting systems that are not only functional but also secure, scalable, and optimized for performance. Explore my portfolio to witness a blend of cutting-edge development and streamlined DevOps practices, and let&apos;s collaborate to bring your next big idea to life!
+            With a focus on clean code, automation, and CI/CD practices, I deliver secure, scalable, and efficient solutions. Explore my projects to see how I turn ideas into reliable, real-world applications.
             </p>
           </motion.div>
         </div>
