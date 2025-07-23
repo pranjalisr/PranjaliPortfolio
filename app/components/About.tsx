@@ -18,7 +18,7 @@ const About = () => {
             className="w-full md:w-1/3"
           >
             <Image
-              src="/dp2.jpeg"
+              src="/dp3.jpeg"
               alt="Pranjali"
               width={400}
               height={400}
