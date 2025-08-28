@@ -4,10 +4,10 @@ import { motion } from 'framer-motion'
 import { Github } from 'lucide-react'
 const projects = [
   {
-    title: 'Automated Deployment Pipeline with GitOps',
-    description: 'Built a GitOps-based CI/CD pipeline using ArgoCD. Integrated it with GitHub to automatically deploy changes to Kubernetes clusters.',
-    tech: ['CI/CD', 'Docker', 'K8'],
-    github: 'https://github.com/pranjalisr/Automated-Deployment-Pipeline-with-GitOps',
+    title: 'FullStack E-Commerce with Admin Dashboard',
+    description: 'Built a comprehensive analytics and customer management systems featuring real-time data visualization',
+    tech: ['Typescript', 'Nextjs', 'Tailwing'],
+    deployment: 'https://ecommerce-store-omega-jet.vercel.app/',
   },
   {
     title: ' Multi-Cloud Infrastructure Management',
