@@ -6,14 +6,14 @@ const projects = [
   {
     title: 'FullStack E-Commerce with Admin Dashboard',
     description: 'Built a comprehensive analytics and customer management systems featuring real-time data visualization',
-    tech: ['Typescript', 'Nextjs', 'Tailwing'],
-    deployment: 'https://ecommerce-store-omega-jet.vercel.app/',
+    tech: ['Typescript', 'Nextjs', 'Tailwind'],
+    github: 'https://github.com/pranjalisr/ecommerce-store',
   },
   {
-    title: ' Multi-Cloud Infrastructure Management',
-    description: 'Set up infrastructure across AWS, implemented a unified dashboard using Prometheus and Grafana for cross-cloud monitoring.',
-    tech: ['Terraform', 'Grafana', 'Azure'],
-    github: 'https://github.com/pranjalisr/Multi-Cloud-Infrastructure-Management',
+    title: ' Unique Job Tracking Platform',
+    description: 'Developed a comprehensive job tracking application using React and Next.js, implementing 7 core modules.',
+    tech: ['Nextjs', 'Reactjs', 'Typescript'],
+    github: 'https://github.com/pranjalisr/job-tracker',
   },
   {
     title: 'Kubernetes Cluster with Advanced Monitoring',
