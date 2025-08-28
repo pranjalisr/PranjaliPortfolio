@@ -37,7 +37,7 @@ const projects = [
     title: 'VR Experience',
     description: 'Allows users to interact with 3D environments and objects in a virtual space, manage VR content,enable seamless user interactions and personalize their experience.',
     tech: ['Nextjs', 'React', 'Expressjs'],
-    github: 'https://github.com/pranjalisr/VR-Experience',
+    github: 'https://github.com/pranjalisr/VR-Experience', 
   },
 ]
 
