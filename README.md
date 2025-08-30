@@ -13,7 +13,7 @@ Welcome to the code repository for my personal portfolio website! This website s
 ---
 
 ## Technologies Used
-- **Frontend**: HTML5, CSS3, JavaScript, React  
+- **Frontend**: HTML5, CSS3, JavaScript, React, Nextjs
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB
 
@@ -23,9 +23,9 @@ Welcome to the code repository for my personal portfolio website! This website s
 
 ### Prerequisites
 Ensure you have the following installed:  
-- Node.js (v16 or later)  
+- Node.js (v16 or later, v20 preferred)  
 - npm or yarn  
-- Docker (optional for containerized deployment)  
+
 
 
 
