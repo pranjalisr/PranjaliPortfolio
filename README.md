@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ## Overview
-Welcome to the code repository for my personal portfolio website! This website showcases my skills, projects, and expertise in **Full Stack Development** and **DevOps**. It’s designed to reflect my passion for crafting seamless digital experiences and automating workflows for efficient solutions.
+Welcome to the code repository for my personal portfolio website! This website showcases my skills, projects, and expertise in **Full Stack Development**. It’s designed to reflect my passion for crafting seamless digital experiences and automating workflows for efficient solutions.
 
 ---
 
